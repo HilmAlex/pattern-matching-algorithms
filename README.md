@@ -1,7 +1,6 @@
 <<<<<<< HEAD
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# pattern-matching-performance
+## Brute Force vs KMP vs Boyer-Moore
 
 ## Available Scripts
 
@@ -70,6 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
-# pattern-matching-performance
-Brute Force vs KMP vs Boyer-Moore
->>>>>>> 40e7eea7ce14916f186a1bc9dc08b6b9892da8a2
+
