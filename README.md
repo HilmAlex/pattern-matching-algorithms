@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# pattern-matching-performance
+# PATTERN MATCHING ALGORITHMS PERFORMANCE
 ## Brute Force vs KMP vs Boyer-Moore
 
 ## Available Scripts
